@@ -29,7 +29,7 @@ local colors = {
   lemon_yellow = "#FFF2B3",
   aurora = "#B2F3AC",
   oxley = "#659B75",
-  float = "#131313",
+  float = "#171717",
 }
 
 return colors
