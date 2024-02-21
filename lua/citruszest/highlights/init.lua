@@ -35,7 +35,7 @@ M.theme = function(C, O)
     NormalFloat = { bg = C.float }, -- Normal text in floating windows.
     FloatBorder = { fg = C.NONE },
     FloatTitle = { fg = C.yellow }, -- Title of floating windows
-    Pmenu = { fg = C.bright_white, bg = C.background }, -- Popup menu: normal item.
+    Pmenu = { fg = C.bright_white, bg = C.float_darker }, -- Popup menu: normal item.
     PmenuSel = { fg = C.orange, bg = C.cursor, bold = O.bold }, -- Popup menu: selected item.
     PmenuSbar = { bg = C.white }, -- Popup menu: scrollbar.
     PmenuThumb = { bg = C.orange }, -- Popup menu: Thumb of the scrollbar.

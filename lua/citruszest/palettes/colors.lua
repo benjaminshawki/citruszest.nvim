@@ -30,6 +30,7 @@ local colors = {
   aurora = "#B2F3AC",
   oxley = "#659B75",
   float = "#121212",
+  float_darker = "#0D0D0D",
 }
 
 return colors
