@@ -2,7 +2,7 @@ local config = {}
 
 config.default = {
   option = {
-    transparent = false,
+    transparent = true,
     italic = true,
     bold = false,
   },
